@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+scikit-fuzzy
+pyswarms
+pandas
+numpy
+scikit-learn
