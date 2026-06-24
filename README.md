@@ -5,6 +5,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-teal.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 
+> 🎓 **Project Presentation:** [View the Presentation Slides here](https://drive.google.com/file/d/1PbjFDtK3bcinOvuxLYL2Gpxp97h9oyL6/view?usp=sharing)
+
 An AI-driven Intelligent Traffic Signal Optimization platform that utilizes **Soft Computing** techniques to dynamically adapt traffic signal timings, reduce wait times, and minimize city congestion.
 
 This project was built as a comprehensive implementation of multiple Artificial Intelligence and Soft Computing modules including **Artificial Neural Networks (ANN)**, **Fuzzy Logic Control**, and **Particle Swarm Optimization (PSO)**.
