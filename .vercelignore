@@ -1,0 +1,5 @@
+backend/
+render.yaml
+.venv/
+__pycache__/
+*.pyc
